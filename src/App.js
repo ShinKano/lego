@@ -13,7 +13,7 @@ function App() {
   return (
     <Root>
       <nav>
-        <Link to="/">Home</Link>
+        <Link to="/">LOGO</Link>
         <Link to="/about">about</Link>
         <Link to="/blog">Blog</Link>
         {/* <Link to="/dynamic">Dynamic</Link> */}
